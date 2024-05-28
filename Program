@@ -1,7 +1,8 @@
 x = 1
 y = 2.8
-z = 1j
+z = 10000
 
 print(type(x))
 print(type(y))
 print(type(z))
+end;
